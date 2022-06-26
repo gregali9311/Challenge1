@@ -43,4 +43,4 @@ The following image demonstrates the web application's appearance and functional
 
 
 
-![Endingproduct](./develop/assets/images/Challenge1Mockup.PNG)
+![Endingproduct](urban-octo-telegram-main/develop/assets/images/Challenge1Mockup.PNG)
